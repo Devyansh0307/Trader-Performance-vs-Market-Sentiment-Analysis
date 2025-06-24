@@ -1,0 +1,17 @@
+📌 Key Observations
+
+1. Best Average PnL:
+
+Traders earned the highest average profit during Extreme Greed (~₹67.89/trade).
+
+
+
+2. Most Active Period:
+
+Fear sentiment had maximum number of trades (61k+), and highest total profit.
+
+
+
+3. Lowest Performance:
+
+Extreme Fear and Neutral had the lowest Avg PnL (~₹34).
